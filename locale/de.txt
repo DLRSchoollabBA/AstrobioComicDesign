@@ -1,0 +1,13 @@
+#: locale=de
+
+## Tour
+
+### Beschreibung
+
+### Titel
+tour.name = Unbenannt 14
+
+## Media
+
+### Titel
+panorama_EE04F5E4_EA82_C58F_41AB_3FFE0665A5E0.label = TestIMG
